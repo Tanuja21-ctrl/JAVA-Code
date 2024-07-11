@@ -1,0 +1,10 @@
+public class operator1 {
+    public static void main(String args[]){
+        //Logical operator
+        boolean a=true;
+        boolean b=false;
+
+        System.out.println(a||b);
+    }
+    
+}
