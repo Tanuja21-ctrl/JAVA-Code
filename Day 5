@@ -1,0 +1,15 @@
+# My fifth program
+
+import java.util.Scanner;
+
+public class demo4 {
+    public static void main(String args[])
+    {
+        //input
+        Scanner sc=new Scanner(System.in);
+        String name = sc.next();
+        //next print only one word as output
+        System.out.println(name);
+    }
+    
+}
